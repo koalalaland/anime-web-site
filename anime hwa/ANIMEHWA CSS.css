@@ -1,0 +1,501 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  
+    
+  }
+  header{
+    background-color: rgb(114, 104, 133);
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 200px;
+    top: 0; 
+  }
+
+  body {
+    padding-top: 60px; 
+}
+
+  .logoo{
+    text-decoration: none;
+    color: rgb(75, 70, 70);
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+  }
+  
+  .navigation a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 1.1em;
+    font-weight: 500;
+    padding-left: 30px;
+  
+  }
+  .navigation a:hover{
+   color: rgb(76, 197, 197);
+  }
+   section{
+    padding: 100px 200px;
+   }
+   section a{
+    color: #312c2c;
+    font-size: 1.5em;
+    padding-right: 30px;
+   }
+   .main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: #323335;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    }
+  
+    .containera{
+        /* Basic dimensions and centering */
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+        /* Dark mode colors and gradient */
+        background: #121212; /* Fallback for browsers that don't support gradients */
+        background: linear-gradient(
+          135deg,
+          #121212 25%,
+          #1a1a1a 25%,
+          #1a1a1a 50%,
+          #121212 50%,
+          #121212 75%,
+          #1a1a1a 75%,
+          #1a1a1a
+        );
+        background-size: 40px 40px;
+      
+        /* Animation */
+        animation: move 4s linear infinite;
+      }
+      
+      @keyframes move {
+        0% {
+          background-position: 0 0;
+        }
+        100% {
+          background-position: 40px 40px;
+        }
+      }
+      
+      
+  
+  
+    .animes a{
+    
+    text-decoration: none;
+    color: rgb(20, 13, 13);
+    font-size: 1em;
+    font-weight: 500;
+    width: 100%;
+    margin-left: 575px;
+   
+  }.logoo{
+    width: 20%;
+    height: 20;
+    margin-right: 400px;
+    padding-right: 50px;
+
+  }
+  .box{
+   display: flex;
+   cursor: pointer;
+   background: rgb(236, 243, 243);
+   border-radius: 30px;
+   align-items: center;
+   box-shadow: 0 10px 25px rgba(0,0,0,0.3); 
+   font-size: 8px;
+   margin-right: 250px;
+   
+  }
+
+  .box:hover input{
+    width: 300px;
+  }
+  .box input{
+    width: 0;
+    outline: none;
+    border: 0;
+    
+    transition: 0.8s;
+    background: transparent;
+  }
+  .box{
+    height: 4vh;
+    display: flexbox;
+    
+  }
+  .pics{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    width: 100%;
+    height: 90vh;
+    background-color:#1B1422;
+  }
+  .pics img{
+    margin: 10px;
+    margin-left: 70px;
+    width: 10%;
+    transition: transform 1500ms;
+    position: relative;
+  }
+  .pics img:hover{
+    cursor: pointer;
+    transform: rotateY(180deg);
+  }
+  .video{
+    display: flex;
+    justify-content: center;
+    background-color: #323335;
+    top: 2%;
+  }
+  .button{
+    display:flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    padding: 10px 20px;
+    margin-left: 460px;
+    
+    }
+    body{
+      background-color: #323335;
+    }
+
+    #page1:hover::before #anime .animetitle, #page1:hover::before #anime #animeinfo {
+        left:40%  
+       }
+       html {
+         font-family: sans-serif;
+         box-sizing: border-box;
+       }
+       
+       *, *:before, *:after {
+         box-sizing: inherit;
+       }
+       
+       .text-center {
+         text-align: center;
+       }
+       
+       .color-white {
+         color: #fff;
+       }
+       
+       .box-container {
+         align-items: center;
+         display: flex;
+         justify-content: space-around;
+         padding: 35px 15px;
+         width:100%;
+         height: 80vh;
+         gap: 180px;
+         
+       }
+       
+       @media screen and (min-width:1380px) {
+         .box-container {
+           flex-direction: row
+         }
+       }
+       
+       .box-item {
+         position: relative;
+         backface-visibility: hidden;
+         width: 300px;
+         margin-bottom: 35px;
+         max-width: 100%;
+        
+         
+         
+       }
+       
+       .flip-box {
+         -ms-transform-style: preserve-3d;
+         transform-style: preserve-3d;
+         -webkit-transform-style: preserve-3d;
+         perspective: 1000px;
+         -webkit-perspective: 1000px;
+         
+       }
+       
+       .flip-box-front,
+       .flip-box-back {
+         background-size: cover;
+         background-position: center;
+         border-radius: 8px;
+         min-height: 475px;
+         -ms-transition: transform 0.7s cubic-bezier(.4,.2,.2,1);
+         transition: transform 0.7s cubic-bezier(.4,.2,.2,1);
+         -webkit-transition: transform 0.7s cubic-bezier(.4,.2,.2,1);
+         -webkit-backface-visibility: hidden;
+         backface-visibility: hidden;
+         min-height: 400px;
+       }
+       
+       .flip-box-front {
+         -ms-transform: rotateY(0deg);
+         -webkit-transform: rotateY(0deg);
+         transform: rotateY(0deg);
+         -webkit-transform-style: preserve-3d;
+         -ms-transform-style: preserve-3d;
+         transform-style: preserve-3d;
+       }
+       
+       .flip-box:hover .flip-box-front {
+         -ms-transform: rotateY(-180deg);
+         -webkit-transform: rotateY(-180deg);
+         transform: rotateY(-180deg);
+         -webkit-transform-style: preserve-3d;
+         -ms-transform-style: preserve-3d;
+         transform-style: preserve-3d;
+       }
+       
+       .flip-box-back {
+         position: absolute;
+         top: 0;
+         left: 0;
+         width: 100%;
+         
+         -ms-transform: rotateY(180deg);
+         -webkit-transform: rotateY(180deg);
+         transform: rotateY(180deg);
+         -webkit-transform-style: preserve-3d;
+         -ms-transform-style: preserve-3d;
+         transform-style: preserve-3d;
+       }
+       
+       .flip-box:hover .flip-box-back {
+         -ms-transform: rotateY(0deg);
+         -webkit-transform: rotateY(0deg);
+         transform: rotateY(0deg);
+         -webkit-transform-style: preserve-3d;
+         -ms-transform-style: preserve-3d;
+         transform-style: preserve-3d;
+       }
+       
+       .flip-box .inner {
+         position: absolute;
+         left: 0;
+         width: 100%;
+         padding: 60px;
+         outline: 1px solid transparent;
+         -webkit-perspective: inherit;
+         perspective: inherit;
+         z-index: 2;
+         
+         transform: translateY(-50%) translateZ(60px) scale(.94);
+         -webkit-transform: translateY(-50%) translateZ(60px) scale(.94);
+         -ms-transform: translateY(-50%) translateZ(60px) scale(.94);
+         top: 50%;
+       }
+       
+       .flip-box-header {
+         font-size: 24px;
+       }
+       
+       .flip-box p {
+         font-size: 15px;
+         line-height: 1.5em;
+       }
+       
+       .flip-box-img {
+         margin-top: 25px;
+       }
+       
+       .flip-box-button {
+         background-color: transparent;
+         border: 2px solid #fff;
+         border-radius: 2px;
+         color: #fff;
+         cursor: pointer;
+         font-size: 20px;
+         font-weight: bold;
+         margin-top: 25px;
+         padding: 15px 20px;
+         text-transform: uppercase;
+}
+.button{
+  display:flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 300px;
+  padding: 10px 20px;
+  margin-right: 80px;
+  }
+  .social-icons a{
+    padding: 50px;
+    margin: 2px;
+    color: #fff;
+    font-size: 30px;
+  }
+ 
+  .button1 {
+    display: flex; 
+    margin-top: 20px;
+    margin-left: 40px;
+  }
+  
+  .box1 {
+    width: 35px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    transition: all .8s;
+    cursor: pointer;
+    position: relative;
+    background: rgb(109, 6, 111);
+    overflow: hidden;
+  }
+  
+  .box1:before {
+    content: "A";
+    position: absolute;
+    top: 0;
+    background: #0f0f0f;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(100%);
+    transition: transform .4s;
+  }
+  
+  .box1:nth-child(2)::before {
+    transform: translateY(-100%);
+    content: 'N';
+  }
+  
+  .box1:nth-child(3)::before {
+    content: 'I';
+  }
+  
+  .box1:nth-child(4)::before {
+    transform: translateY(-100%);
+    content: 'M';
+  }
+  
+  .box1:nth-child(5)::before {
+    content: 'E';
+  }
+  
+  .box1:nth-child(6)::before {
+    content: 'S';
+  }
+  
+  .button1:hover .box1:before {
+    transform: translateY(0);
+  }
+/* 
+html page des episodes et des pages d interface des animes
+*/
+ 
+
+.titleep{
+   margin-top: 30px;
+   color: #fefefe;
+ max-width: 900px;
+}
+
+
+.episodesl{
+
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top:100px ; 
+margin-left: 10px;
+  }
+
+
+.image{
+    width: 6%;
+    height: 20%;
+
+}
+  
+.button-container1 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 10px ;
+}
+
+.episode-button {
+
+  
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(109, 6, 111);
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.episode-button:hover {
+    background-color: #000000;
+}
+
+
+ 
+  body {
+    background-color: #212121;
+  }
+
+
+
+
+
+.textsol{
+
+    max-width: 1700px;
+    color: #fefefe;
+}
+
+.textsol.s{
+    font-size: 1rem;
+    line-height: 1.6;
+
+}
+
+.textsol.T{
+    font-size: 2rem;
+    margin-bottom: 10px;
+
+}
+
+.trailer{
+   display: flex;
+   
+
+
+}

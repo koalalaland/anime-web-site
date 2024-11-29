@@ -1,0 +1,1111 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animhwa</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="ANIMEHWA CSS.css">
+    <style>
+      
+      </style>
+    <script src="ANIMEHWA.js"></script>
+</head>
+<body>
+ 
+  <script src="ANIMEHWA.js"></script>
+ 
+  <header>
+    <img src="icon.png" class="logoo">
+    <nav class="navigation">
+      <div class="box"><input type="text" placeholder="">
+        <a href="#"><i class="fa-solid fa-magnifying-glass"></i></a></div>
+        <a href="ANIMEHWA HTML.html">Main</a>
+        <a href="#">Movies</a>
+        <a href="https://www.webtoons.com/en/">Manhwa</a>
+    </nav>
+ </header>
+
+ <div class="video">
+ <video autoplay loop muted plays-inline width="100%" height="100%">
+   <source src="Violet Dark Blue Anime Music Twitch Banner.mp4">
+ </video></div>
+ 
+ <div class="containera">
+  <a href="https://animeschedule.net/"> <div class="button1">
+  <div class="box1">W</div>
+  <div class="box1">E</div>
+  <div class="box1">E</div>
+  <div class="box1">K</div>
+  <div class="box1">L</div>
+  <div class="box1">Y</div> 
+</div></a>
+</div>
+ 
+<div class="containera">
+<div class="container">
+    <div class="box-container">
+      <div class="box-item">
+      <div class="flip-box">
+        <div class="flip-box-front text-center" style="background-image: url('https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,width=480,height=720,fit=contain,quality=85/catalog/crunchyroll/8b35b4a6cffe66004f752aa147351cab.jpe');">
+          <div class="inner color-white">
+           
+            
+      </div>
+        </div>
+        <div class="flip-box-back text-center" style="background-image: url('https://i.pinimg.com/736x/57/ae/98/57ae98875d31b9a895f26ed6551fbc29.jpg');">
+          <div class="inner color-white">
+            <h3 class="flip-box-header">Classroom of the elites</h3>
+            <p>When Kiyotaka enters government-sponsored elite  high school, he finds out just how merit-based this education system is.</p>
+            <a href="clasroom of the e.html"targer="_blank">
+            <button class="flip-box-button">Watch Now</button></a>
+          </div>
+        </div>
+      </div>
+      </div>
+      <div class="box-item">
+      <div class="flip-box">
+        <div class="flip-box-front text-center" style="background-image: url('https://japoncinema.com/wp-content/uploads/2022/07/Solo_Leveling_anime_date.jpeg');">
+          <div class="inner color-white">          
+          </div>
+        </div>
+        <div class="flip-box-back text-center" style="background-image: url(data:image/jpeg;base64,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);">
+          <div class="inner color-white">
+            <h3 class="flip-box-header">Solo Leveling</h3>
+            <p>In a world of gifted hunters and monsters, a weak hunter Sung Jinwoo gains extraordinary powers through a mysterious program, leading him to become one of the strongest hunters and conquering even the strongest dungeons.</p>
+          <a href="SOLOLEVELING.html"targer="_blank">
+            <button class="flip-box-button">Watch Now</button></a>
+          </div>
+        </div>
+      </div>
+      </div>
+      <div class="box-item">
+      <div class="flip-box">
+        <div class="flip-box-front text-center filter-" style="background-image: url('https://images.justwatch.com/poster/304428668/s718/season-5.jpg');">
+          <div class="inner color-white">
+            
+          </div>
+        </div>
+        <div class="flip-box-back text-center" style="background-image: url('https://wallpapers-clan.com/wp-content/uploads/2023/12/one-piece-sanji-jolly-roger-dark-background-scaled.jpg');">
+          <div class="inner color-white">
+              <h3 class="flip-box-header">One Piece</h3>
+              <p>Monkey D. Luffy sets off on an adventure with his pirate crew in hopes of finding the greatest treasure ever, known as the "One Piece."</p>
+            <button class="flip-box-button">Watch Now</button>
+        </div>
+     </div>
+      </div>
+        </div>
+      </div>
+   </div>
+   </div>
+     </div>
+      </div>
+      
+      <div class="containera">
+      <div class="container">
+        <div class="box-container">
+          <div class="box-item">
+          <div class="flip-box">
+            <div class="flip-box-front text-center" style="background-image: url('https://images.justwatch.com/poster/195464686/s718/hunter-x-hunter-2011-2011.jpg');">
+              <div class="inner color-white">
+          
+          </div>
+            </div>
+            <div class="flip-box-back text-center" style="background-image: url('data:image/jpeg;base64,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');">
+              <div class="inner color-white">
+                <h3 class="flip-box-header">Hunter X Hunter</h3>
+                <p>The story focuses on a young boy named Gon Freecss who discovers that his father, who left him at a young age, is actually a world-renowned Hunter, a licensed professional who specializes in fantastical pursuits such as locating rare or unidentified animal species, treasure hunting</p>
+                <button class="flip-box-button">Watch Now</button>
+              </div>
+            </div>
+          </div>
+          </div>
+          <div class="box-item">
+          <div class="flip-box">
+            <div class="flip-box-front text-center" style="background-image: url('https://www.actuabd.com/local/cache-vignettes/L700xH998/arton31894-fa587.jpg?1687341427');">
+              <div class="inner color-white">          
+              </div>
+            </div>
+            <div class="flip-box-back text-center" style="background-image: url(https://i.redd.it/dovosj85319b1.jpg);">
+              <div class="inner color-white">
+                <h3 class="flip-box-header">Vinland Saga</h3>
+                <p>Following a tragedy, Thorfinn embarks on a journey with the man responsible for it to take his life in a duel as a true and honorable warrior to pay homage. A young man named Thorfinn finds himself in a quest for revenge against the man responsible for a traumatic tragedy in his early life.</p>
+                <button class="flip-box-button">Watch Now</button>
+              </div>
+            </div>
+          </div>
+          </div>
+          <div class="box-item">
+          <div class="flip-box">
+            <div class="flip-box-front text-center filter-" style="background-image: url('https://m.media-amazon.com/images/M/MV5BM2ZkYTAwMGMtOGEwOS00MzBjLTgxOGYtZTYwY2E1ZjMyZmY4XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg');">
+              <div class="inner color-white">
+                
+              </div>
+            </div>
+            <div class="flip-box-back text-center" style="background-image: url('https://i.pinimg.com/564x/b8/de/9d/b8de9d9317a6bf26ae85b43666e444ef.jpg');">
+              <div class="inner color-white">
+                  <h3 class="flip-box-header">Monster</h3>
+                  <p>The story revolves around Kenzo Tenma, a Japanese surgeon living in Düsseldorf, Germany whose life enters turmoil after he gets himself involved with Johan Liebert, one of his former patients, who is revealed to be a psychopathic serial killer.</p>
+                <button class="flip-box-button">Watch Now</button>
+            </div>
+         </div>
+          </div>
+            </div>
+    </div>
+         
+       </div>
+       </div>
+         </div>
+          </div>
+        </div>
+          <div class="containera">
+      <div class="button">
+        <a href="https://youtu.be/JhVPJ2J0sz8?feature=shared"targer="_blank">
+         
+            <div class="button1">
+             <div class="box1">B</div>
+             <div class="box1">E</div>
+             <div class="box1">S</div>
+             <div class="box1">T</div>
+             <div class="box1">O</div>
+             <div class="box1">F</div> 
+           </div>
+          
+        </a></div>
+        <div class="social-icons">
+          <a href="https://www.instagram.com/yassir_sll/" target="blanck"><i class="fa-brands fa-instagram"></i></a>
+          <a href="https://discord.com/channels/@me"target="blanck"><i class="fa-brands fa-discord"></i></a>
+          <a href="#"target="blanck"><i class="fa-solid fa-envelope" ></i></a>
+         </div>
+ </div>
+</div>
+</div>
+
+ 
+</body>
+</html>
+
+
+clasof:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animhwa</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="ANIMEHWA CSS.css">
+    <script src="ANIMEHWA.js"></script>
+</head>
+<body>
+ <header>
+    <img src="icon.png" class="logoo">
+    <nav class="navigation">
+      <div class="box"><input type="text" placeholder="">
+        <a href="#"><i class="fa-solid fa-magnifying-glass"></i></a></div>
+        <a href="ANIMEHWA HTML.html">Main</a>
+        <a href="#">Movies</a>
+        <a href="https://www.webtoons.com/en/">Manhwa</a>
+    </nav>
+ </header>
+ 
+ <div class="trailer">
+    <video autoplay loop muted playsinline width="100%" height="100%">
+        <source src="classroom of the elites.mp4" type="video/mp4">
+        
+      </video>
+      
+</div>
+<div class="containera">
+ 
+    <h2 class="textsol">
+        <span>Every monday at 13:30pm</span></h2>   
+         <i class="ion-ios-play-outline"></i>  
+       <div class="curl"></div>
+       <a href="#"></a>
+     </div>        
+    </figure>
+   <div class="textsol">
+    <h4 id="T"> Classroom of the elites</h4>
+    <br>
+    <p id="s">When Kiyotaka enters government-sponsored elite  high school, he finds out just how merit-based this education system is.</p>
+     </div>
+  </div></div>
+  
+  <div class="containera">
+  <div class="button-container1">
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 1</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 2</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 3</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 4</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 5</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 6</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 7</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 8</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 9</button></a>
+   
+    
+ </div>
+</div>
+ 
+
+     
+ <div class="containera">
+ <div class="button">
+    <div class="button">
+        <a href="https://youtu.be/JhVPJ2J0sz8?feature=shared"targer="_blank">
+         
+            <div class="button1">
+             <div class="box1">B</div>
+             <div class="box1">E</div>
+             <div class="box1">S</div>
+             <div class="box1">T</div>
+             <div class="box1">O</div>
+             <div class="box1">F</div> 
+           </div></a></div>
+          
+        
+    <div class="social-icons">
+      <a href="https://www.instagram.com/yassir_sll/" target="blanck"><i class="fa-brands fa-instagram"></i></a>
+      <a href="https://discord.com/channels/@me"target="blanck"><i class="fa-brands fa-discord"></i></a>
+      <a href="#"target="blanck"><i class="fa-solid fa-envelope" ></i></a>
+     </div>
+</div>
+</div>
+
+
+</body>
+</html>
+
+clasof 1:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animhwa</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="ANIMEHWA CSS.css">
+    <script src="ANIMEHWA.js"></script>
+</head>
+<body>
+ <header>
+    <a href="ANIMEHWA HTML.html"><img src="icon.png" class="logoo" ></a>
+    <nav class="navigation">
+      <div class="box"><input type="text" placeholder="">
+        <a href="#"><i class="fa-solid fa-magnifying-glass"></i></a></div>
+        <a href="ANIMEHWA HTML.html">Main</a>
+        <a href="#">Movies</a>
+        <a href="https://www.webtoons.com/en/">Manhwa</a>
+    </nav>
+ </header>
+
+ <div class="containera">
+ <h1 class="titleep">Classroom of the elites Season 1 </h1>
+ 
+ <div class="padding">
+    
+     <div class="episodesl">
+        <img id="image" src="horikita.png" style="width: 150px; height: 310px;">
+
+        <iframe width="640" height="360" scrolling="no" frameborder="0" allowfullscreen style="border: none;" src="https://www.bitchute.com/embed/LMhYG5omwx41/"></iframe>
+    </div>
+</div>
+
+<div class="button-container1">
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 1</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 2</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 3</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 4</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 5</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 6</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 7</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 8</button></a>
+    <a href="clasofe ep1.html"> <button class="episode-button" > Episode 9</button></a>
+   
+    
+ </div>
+</div>
+<div class="containera">
+ <div class="button">
+    <a href="https://youtu.be/JhVPJ2J0sz8?feature=shared"targer="_blank">
+     
+        <div class="button1">
+         <div class="box1">B</div>
+         <div class="box1">E</div>
+         <div class="box1">S</div>
+         <div class="box1">T</div>
+         <div class="box1">O</div>
+         <div class="box1">F</div> 
+       </div>
+      
+    </a></div>
+    <div class="social-icons">
+      <a href="https://www.instagram.com/yassir_sll/" target="blanck"><i class="fa-brands fa-instagram"></i></a>
+      <a href="https://discord.com/channels/@me"target="blanck"><i class="fa-brands fa-discord"></i></a>
+      <a href="#"target="blanck"><i class="fa-solid fa-envelope" ></i></a>
+     </div>
+</div>
+
+</div>
+
+</body>
+</html>
+
+
+sololev:
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animhwa</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="ANIMEHWA CSS.css">
+    <script src="ANIMEHWA.js"></script>
+</head>
+<body>
+ <header>
+    <img src="icon.png" class="logoo">
+    <nav class="navigation">
+      <div class="box"><input type="text" placeholder="">
+        <a href="#"><i class="fa-solid fa-magnifying-glass"></i></a></div>
+        <a href="ANIMEHWA HTML.html">Main</a>
+        <a href="#">Movies</a>
+        <a href="https://www.webtoons.com/en/">Manhwa</a>
+    </nav>
+ </header>
+<div class="trailer">
+    <video autoplay loop muted playsinline width="100%" height="100%">
+        <source src="trailer.mp4" type="video/mp4">
+        
+      </video>
+      
+</div>
+<div class="containera">
+      <h2 class="textsol">Solo levling <span>anime</span>
+        <span>every monday at 13:30pm</span></h2>   
+
+       <a href="#"></a>
+     </div>        
+    </figure>
+</div>
+   <div class="textsol">
+    <h4 id="T"> Sololeveling</h4>
+    <br>
+    <p id="s">In a world of gifted hunters and monsters, a weak hunter Sung Jinwoo gains extraordinary powers through  mysterious program, leading him to become one of the strongest hunters and conquering even the strongest dungeons.</p>
+     </div>
+  </div>
+  <div class="containera">
+<div class="button-container1">
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 1</button></a>
+    <a href="sol ep2.html"> <button class="episode-button" > Episode 2</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 3</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 4</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 5</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 6</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 7</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 8</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 9</button></a>
+   
+    
+ </div>
+</div>
+ <div class="containera">
+ <div class="button">
+    <a href="https://youtu.be/JhVPJ2J0sz8?feature=shared"targer="_blank">
+     
+        <div class="button1">
+         <div class="box1">B</div>
+         <div class="box1">E</div>
+         <div class="box1">S</div>
+         <div class="box1">T</div>
+         <div class="box1">O</div>
+         <div class="box1">F</div> 
+       </div>
+      
+    </a></div>
+    <div class="social-icons">
+      <a href="https://www.instagram.com/yassir_sll/" target="blanck"><i class="fa-brands fa-instagram"></i></a>
+      <a href="https://discord.com/channels/@me"target="blanck"><i class="fa-brands fa-discord"></i></a>
+      <a href="#"target="blanck"><i class="fa-solid fa-envelope" ></i></a>
+     </div>
+</div>
+</div>
+
+
+</body>
+</html>
+
+
+
+solole eps:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animhwa</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="ANIMEHWA CSS.css">
+    <script src="ANIMEHWA.js"></script>
+</head>
+<body>
+ <header>
+    <a href="ANIMEHWA HTML.html"><img src="icon.png" class="logoo" ></a>
+    <nav class="navigation">
+      <div class="box"><input type="text" placeholder="">
+        <a href="#"><i class="fa-solid fa-magnifying-glass"></i></a></div>
+        <a href="ANIMEHWA HTML.html">Main</a>
+        <a href="#">Movies</a>
+        <a href="https://www.webtoons.com/en/">Manhwa</a>
+    </nav>
+ </header>
+
+ <div class="containera">
+ <h1 class="titleep"> Sololeveling  Season 1 </h1>
+ 
+
+     
+  
+  <div class="padding">
+    
+     <div class="episodesl">
+        <img id="image" src="sl trans.png" style="width: 130px; height: 370px;">
+
+     <iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" allowfullscreen src="https://www.bitchute.com/embed/UGNQn2dTryTA/"></iframe>
+
+    </div>
+</div>
+
+<div class="button-container1">
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 1</button></a>
+    <a href="sol ep2.html"> <button class="episode-button" > Episode 2</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 3</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 4</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 5</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 6</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 7</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 8</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 9</button></a>
+   
+    
+ </div>
+
+</div>
+<div class="containera">
+ <div class="button">
+    <a href="https://youtu.be/JhVPJ2J0sz8?feature=shared"targer="_blank">
+     
+        <div class="button1">
+         <div class="box1">B</div>
+         <div class="box1">E</div>
+         <div class="box1">S</div>
+         <div class="box1">T</div>
+         <div class="box1">O</div>
+         <div class="box1">F</div> 
+       </div>
+      
+    </a></div>
+    <div class="social-icons">
+      <a href="https://www.instagram.com/yassir_sll/" target="blanck"><i class="fa-brands fa-instagram"></i></a>
+      <a href="https://discord.com/channels/@me"target="blanck"><i class="fa-brands fa-discord"></i></a>
+      <a href="#"target="blanck"><i class="fa-solid fa-envelope" ></i></a>
+     </div>
+</div>
+</div>
+
+
+</body>
+</html>
+
+solo lev ep 2:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animhwa</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="ANIMEHWA CSS.css">
+    <script src="ANIMEHWA.js"></script>
+</head>
+<body>
+ <header>
+    <a href="ANIMEHWA HTML.html"><img src="icon.png" class="logoo" ></a>
+    <nav class="navigation">
+      <div class="box"><input type="text" placeholder="">
+        <a href="#"><i class="fa-solid fa-magnifying-glass"></i></a></div>
+        <a href="ANIMEHWA HTML.html">Main</a>
+        <a href="#">Movies</a>
+        <a href="https://www.webtoons.com/en/">Manhwa</a>
+    </nav>
+ </header>
+ <div class="containera">
+ <h1 class="titleep"> Sololeveling  Season 1 </h1>
+ 
+
+     
+  
+  <div class="padding">
+    
+     <div class="episodesl">
+        <img id="image" src="sl trans.png" style="width: 130px; height: 370px;">
+
+        <iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" allowfullscreen src="https://www.bitchute.com/embed/XYP4ZzufnDtG/"></iframe>
+
+    </div>
+</div>
+
+<div class="button-container1">
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 1</button></a>
+    <a href="sol ep2.html"> <button class="episode-button" > Episode 2</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 3</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 4</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 5</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 6</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 7</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 8</button></a>
+    <a href="solole Episodes.html"> <button class="episode-button" > Episode 9</button></a>
+
+ </div>
+</div>
+ <div class="containera">
+ <div class="button">
+    <a href="https://youtu.be/JhVPJ2J0sz8?feature=shared"targer="_blank">
+     
+        <div class="button1">
+         <div class="box1">B</div>
+         <div class="box1">E</div>
+         <div class="box1">S</div>
+         <div class="box1">T</div>
+         <div class="box1">O</div>
+         <div class="box1">F</div> 
+       </div>
+      
+    </a></div>
+      <a href="https://www.instagram.com/yassir_sll/" target="blanck"><i class="fa-brands fa-instagram"></i></a>
+      <a href="https://discord.com/channels/@me"target="blanck"><i class="fa-brands fa-discord"></i></a>
+      <a href="#"target="blanck"><i class="fa-solid fa-envelope" ></i></a>
+     </div>
+</div>
+</div>
+
+
+</body>
+</html>
+
+
+
+
+
+csssss:
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  
+    
+  }
+  header{
+    background-color: rgb(114, 104, 133);
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 200px;
+    top: 0; 
+  }
+
+  body {
+    padding-top: 60px; 
+}
+
+  .logoo{
+    text-decoration: none;
+    color: rgb(75, 70, 70);
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+  }
+  
+  .navigation a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 1.1em;
+    font-weight: 500;
+    padding-left: 30px;
+  
+  }
+  .navigation a:hover{
+   color: rgb(76, 197, 197);
+  }
+   section{
+    padding: 100px 200px;
+   }
+   section a{
+    color: #312c2c;
+    font-size: 1.5em;
+    padding-right: 30px;
+   }
+   .main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: #323335;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    }
+  
+    .containera{
+        /* Basic dimensions and centering */
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+        /* Dark mode colors and gradient */
+        background: #121212; /* Fallback for browsers that don't support gradients */
+        background: linear-gradient(
+          135deg,
+          #121212 25%,
+          #1a1a1a 25%,
+          #1a1a1a 50%,
+          #121212 50%,
+          #121212 75%,
+          #1a1a1a 75%,
+          #1a1a1a
+        );
+        background-size: 40px 40px;
+      
+        /* Animation */
+        animation: move 4s linear infinite;
+      }
+      
+      @keyframes move {
+        0% {
+          background-position: 0 0;
+        }
+        100% {
+          background-position: 40px 40px;
+        }
+      }
+      
+      
+  
+  
+    .animes a{
+    
+    text-decoration: none;
+    color: rgb(20, 13, 13);
+    font-size: 1em;
+    font-weight: 500;
+    width: 100%;
+    margin-left: 575px;
+   
+  }.logoo{
+    width: 20%;
+    height: 20;
+    margin-right: 400px;
+    padding-right: 50px;
+
+  }
+  .box{
+   display: flex;
+   cursor: pointer;
+   background: rgb(236, 243, 243);
+   border-radius: 30px;
+   align-items: center;
+   box-shadow: 0 10px 25px rgba(0,0,0,0.3); 
+   font-size: 8px;
+   margin-right: 250px;
+   
+  }
+
+  .box:hover input{
+    width: 300px;
+  }
+  .box input{
+    width: 0;
+    outline: none;
+    border: 0;
+    
+    transition: 0.8s;
+    background: transparent;
+  }
+  .box{
+    height: 4vh;
+    display: flexbox;
+    
+  }
+  .pics{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    width: 100%;
+    height: 90vh;
+    background-color:#1B1422;
+  }
+  .pics img{
+    margin: 10px;
+    margin-left: 70px;
+    width: 10%;
+    transition: transform 1500ms;
+    position: relative;
+  }
+  .pics img:hover{
+    cursor: pointer;
+    transform: rotateY(180deg);
+  }
+  .video{
+    display: flex;
+    justify-content: center;
+    background-color: #323335;
+    top: 2%;
+  }
+  .button{
+    display:flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    padding: 10px 20px;
+    margin-left: 460px;
+    
+    }
+    body{
+      background-color: #323335;
+    }
+
+    #page1:hover::before #anime .animetitle, #page1:hover::before #anime #animeinfo {
+        left:40%  
+       }
+       html {
+         font-family: sans-serif;
+         box-sizing: border-box;
+       }
+       
+       *, *:before, *:after {
+         box-sizing: inherit;
+       }
+       
+       .text-center {
+         text-align: center;
+       }
+       
+       .color-white {
+         color: #fff;
+       }
+       
+       .box-container {
+         align-items: center;
+         display: flex;
+         justify-content: space-around;
+         padding: 35px 15px;
+         width:100%;
+         height: 80vh;
+         gap: 180px;
+         
+       }
+       
+       @media screen and (min-width:1380px) {
+         .box-container {
+           flex-direction: row
+         }
+       }
+       
+       .box-item {
+         position: relative;
+         backface-visibility: hidden;
+         width: 300px;
+         margin-bottom: 35px;
+         max-width: 100%;
+        
+         
+         
+       }
+       
+       .flip-box {
+         -ms-transform-style: preserve-3d;
+         transform-style: preserve-3d;
+         -webkit-transform-style: preserve-3d;
+         perspective: 1000px;
+         -webkit-perspective: 1000px;
+         
+       }
+       
+       .flip-box-front,
+       .flip-box-back {
+         background-size: cover;
+         background-position: center;
+         border-radius: 8px;
+         min-height: 475px;
+         -ms-transition: transform 0.7s cubic-bezier(.4,.2,.2,1);
+         transition: transform 0.7s cubic-bezier(.4,.2,.2,1);
+         -webkit-transition: transform 0.7s cubic-bezier(.4,.2,.2,1);
+         -webkit-backface-visibility: hidden;
+         backface-visibility: hidden;
+         min-height: 400px;
+       }
+       
+       .flip-box-front {
+         -ms-transform: rotateY(0deg);
+         -webkit-transform: rotateY(0deg);
+         transform: rotateY(0deg);
+         -webkit-transform-style: preserve-3d;
+         -ms-transform-style: preserve-3d;
+         transform-style: preserve-3d;
+       }
+       
+       .flip-box:hover .flip-box-front {
+         -ms-transform: rotateY(-180deg);
+         -webkit-transform: rotateY(-180deg);
+         transform: rotateY(-180deg);
+         -webkit-transform-style: preserve-3d;
+         -ms-transform-style: preserve-3d;
+         transform-style: preserve-3d;
+       }
+       
+       .flip-box-back {
+         position: absolute;
+         top: 0;
+         left: 0;
+         width: 100%;
+         
+         -ms-transform: rotateY(180deg);
+         -webkit-transform: rotateY(180deg);
+         transform: rotateY(180deg);
+         -webkit-transform-style: preserve-3d;
+         -ms-transform-style: preserve-3d;
+         transform-style: preserve-3d;
+       }
+       
+       .flip-box:hover .flip-box-back {
+         -ms-transform: rotateY(0deg);
+         -webkit-transform: rotateY(0deg);
+         transform: rotateY(0deg);
+         -webkit-transform-style: preserve-3d;
+         -ms-transform-style: preserve-3d;
+         transform-style: preserve-3d;
+       }
+       
+       .flip-box .inner {
+         position: absolute;
+         left: 0;
+         width: 100%;
+         padding: 60px;
+         outline: 1px solid transparent;
+         -webkit-perspective: inherit;
+         perspective: inherit;
+         z-index: 2;
+         
+         transform: translateY(-50%) translateZ(60px) scale(.94);
+         -webkit-transform: translateY(-50%) translateZ(60px) scale(.94);
+         -ms-transform: translateY(-50%) translateZ(60px) scale(.94);
+         top: 50%;
+       }
+       
+       .flip-box-header {
+         font-size: 24px;
+       }
+       
+       .flip-box p {
+         font-size: 15px;
+         line-height: 1.5em;
+       }
+       
+       .flip-box-img {
+         margin-top: 25px;
+       }
+       
+       .flip-box-button {
+         background-color: transparent;
+         border: 2px solid #fff;
+         border-radius: 2px;
+         color: #fff;
+         cursor: pointer;
+         font-size: 20px;
+         font-weight: bold;
+         margin-top: 25px;
+         padding: 15px 20px;
+         text-transform: uppercase;
+}
+.button{
+  display:flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 300px;
+  padding: 10px 20px;
+  margin-right: 80px;
+  }
+  .social-icons a{
+    padding: 50px;
+    margin: 2px;
+    color: #fff;
+    font-size: 30px;
+  }
+ 
+  .button1 {
+    display: flex; 
+    margin-top: 20px;
+    margin-left: 40px;
+  }
+  
+  .box1 {
+    width: 35px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    transition: all .8s;
+    cursor: pointer;
+    position: relative;
+    background: rgb(109, 6, 111);
+    overflow: hidden;
+  }
+  
+  .box1:before {
+    content: "A";
+    position: absolute;
+    top: 0;
+    background: #0f0f0f;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(100%);
+    transition: transform .4s;
+  }
+  
+  .box1:nth-child(2)::before {
+    transform: translateY(-100%);
+    content: 'N';
+  }
+  
+  .box1:nth-child(3)::before {
+    content: 'I';
+  }
+  
+  .box1:nth-child(4)::before {
+    transform: translateY(-100%);
+    content: 'M';
+  }
+  
+  .box1:nth-child(5)::before {
+    content: 'E';
+  }
+  
+  .box1:nth-child(6)::before {
+    content: 'S';
+  }
+  
+  .button1:hover .box1:before {
+    transform: translateY(0);
+  }
+/* 
+html page des episodes et des pages d interface des animes
+*/
+ 
+
+.titleep{
+   margin-top: 30px;
+   color: #fefefe;
+ max-width: 900px;
+}
+
+
+.episodesl{
+
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top:100px ; 
+margin-left: 10px;
+  }
+
+
+.image{
+    width: 6%;
+    height: 20%;
+
+}
+  
+.button-container1 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 10px ;
+}
+
+.episode-button {
+
+  
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(109, 6, 111);
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.episode-button:hover {
+    background-color: #000000;
+}
+
+
+ 
+  body {
+    background-color: #212121;
+  }
+
+
+
+
+
+.textsol{
+
+    max-width: 1700px;
+    color: #fefefe;
+}
+
+.textsol.s{
+    font-size: 1rem;
+    line-height: 1.6;
+
+}
+
+.textsol.T{
+    font-size: 2rem;
+    margin-bottom: 10px;
+
+}
+
+.trailer{
+   display: flex;
+   
+
+
+}
