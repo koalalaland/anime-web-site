@@ -1,1 +1,1 @@
-# anime-web-site
+Explore anime effortlessly with AnimeHwa, a lightweight platform for streaming your favorite series. Designed for simplicity and efficiency, this project is perfect for anime enthusiasts and developers curious about open-source solutions!
